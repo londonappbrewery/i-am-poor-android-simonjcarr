@@ -19,7 +19,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="81dp"
         android:text="@string/title"
-        android:textColor="#FFFFFF"
+        android:textColor="#000000"
         android:textSize="40sp" />
 
     <ImageView
